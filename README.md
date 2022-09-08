@@ -8,3 +8,4 @@ while(true){
 
   printf("dupa");
  }
+tomek ma duza glowe
