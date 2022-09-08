@@ -9,3 +9,4 @@ while(true){
   printf("dupa");
  }
 tomek ma duza glowe
+tomak jest 2 glowy
