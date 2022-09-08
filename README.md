@@ -14,7 +14,7 @@ tomek nie ma glowy
 ej dyjach
 co 
 hbo
-
+XDDDDD
 nie rozmawiac na lekcji
 
 ej tomek
