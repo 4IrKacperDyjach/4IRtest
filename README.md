@@ -1,3 +1,3 @@
 # 4IRtest
 test test test
-nie xd
+ej kacper c osie dzieje
