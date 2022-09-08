@@ -10,4 +10,4 @@ while(true){
  }
 tomek ma duza glowe
 tomak jest 2 glowy
-ej dyjach
+tomek nie ma glowy
