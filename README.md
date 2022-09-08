@@ -18,3 +18,6 @@ XDDDDD
 nie rozmawiac na lekcji
 
 ej tomek
+
+
+co
