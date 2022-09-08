@@ -6,3 +6,4 @@ xdxdxdxdxdddddd
 ale jestes maslak
 while True:
   print("dupa")
+say: dyjach to cipa
