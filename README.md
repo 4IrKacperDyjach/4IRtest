@@ -16,3 +16,5 @@ co
 hbo
 
 nie rozmawiac na lekcji
+
+ej tomek
