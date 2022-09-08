@@ -4,6 +4,7 @@ ej kacper c osie dzieje
 , nwm byku help
 xdxdxdxdxdddddd
 ale jestes maslak
-while True:
-  print("dupa")
-say: dyjach to ...
+while(true){
+
+  printf("dupa");
+ }
